@@ -1,0 +1,15 @@
+C:\Users\alena\source\repos\Игры\Игры\bin\Debug\net6.0\Игры.exe
+C:\Users\alena\source\repos\Игры\Игры\bin\Debug\net6.0\Игры.deps.json
+C:\Users\alena\source\repos\Игры\Игры\bin\Debug\net6.0\Игры.runtimeconfig.json
+C:\Users\alena\source\repos\Игры\Игры\bin\Debug\net6.0\Игры.dll
+C:\Users\alena\source\repos\Игры\Игры\bin\Debug\net6.0\Игры.pdb
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\Игры.csproj.AssemblyReference.cache
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\Игры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\Игры.AssemblyInfoInputs.cache
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\Игры.AssemblyInfo.cs
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\Игры.csproj.CoreCompileInputs.cache
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\Игры.dll
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\refint\Игры.dll
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\Игры.pdb
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\Игры.genruntimeconfig.cache
+C:\Users\alena\source\repos\Игры\Игры\obj\Debug\net6.0\ref\Игры.dll
